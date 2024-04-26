@@ -35,4 +35,8 @@ The `calculate_subtotal` function in this script performs the following tasks:
 
 
 ## **Tests**
-To run unit tests, execute `unittests.py` in the project directory.
+To run the unit tests you can do either of these:
+*  Execute `unittests.py` in the project directory.
+
+* Execute the following command: `python -m unittests` in the terminal 
+
